@@ -16,7 +16,7 @@
 
 Try it.
 
-1. git clone https://jairmontes@bitbucket.org/jairmontes/technicaltest.git
+1. git clone https://github.com/Jair3M/TechnicalTest.git
 2. cd technicaltest
 3. npm install
 4. npm start
